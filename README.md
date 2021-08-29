@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oscargzzh1
+- 👋 Hi, I’m @Oscargzzh
 - 👀 I’m interested in databases
 - 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on all the projects when I can learn.
